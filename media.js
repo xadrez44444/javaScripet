@@ -6,6 +6,6 @@
 //posiçoẽs       0  1  2  3 
 // const notas = [10, 6.5, 8, 7.5];
 
-const media = (nota[0] + nota[1] + nota[2] + nota[3]) / notas.leght;n
+const media = (nota[0] + nota[1] + nota[2] + nota[3]) / notas.lenght;
 
 console.log(media);
